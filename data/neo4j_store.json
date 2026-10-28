@@ -1,0 +1,1832 @@
+{
+  "nodes": {
+    "DOC-001": {
+      "id": "DOC-001",
+      "labels": [
+        "Document"
+      ],
+      "properties": {
+        "id": "DOC-001",
+        "title": "Forrester Total Economic Impact Study 2023",
+        "version": "v2.1",
+        "type": "PDF",
+        "createdAt": "2024-01-15T00:00:00Z"
+      }
+    },
+    "DOC-002": {
+      "id": "DOC-002",
+      "labels": [
+        "Document"
+      ],
+      "properties": {
+        "id": "DOC-002",
+        "title": "Inkloom Brand Master Guidelines 2024",
+        "version": "v2.4",
+        "type": "PDF",
+        "createdAt": "2024-01-15T00:00:00Z"
+      }
+    },
+    "DOC-003": {
+      "id": "DOC-003",
+      "labels": [
+        "Document"
+      ],
+      "properties": {
+        "id": "DOC-003",
+        "title": "A-LIGN SOC-2 Annual Audit Report 2024",
+        "version": "v3.0",
+        "type": "PDF",
+        "createdAt": "2024-01-15T00:00:00Z"
+      }
+    },
+    "DOC-004": {
+      "id": "DOC-004",
+      "labels": [
+        "Document"
+      ],
+      "properties": {
+        "id": "DOC-004",
+        "title": "Enterprise Growth Pitch Master Template",
+        "version": "v1.2",
+        "type": "PPTX",
+        "createdAt": "2024-01-15T00:00:00Z"
+      }
+    },
+    "FACT-001": {
+      "id": "FACT-001",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-001",
+        "claim": "Inkloom saves 25% creative production time for enterprise marketing teams.",
+        "category": "Performance",
+        "sourceDoc": "Forrester Total Economic Impact Study 2023 (p. 14)",
+        "evidenceUrl": "https://evidence.inkloom.internal/reports/forrester-tei-2023.pdf",
+        "expiryDate": "2027-12-31",
+        "version": "v2.1",
+        "owner": "Sarah Chen (Head of Product Marketing)",
+        "confidence": 0.98,
+        "status": "valid",
+        "tags": [
+          "efficiency",
+          "time-savings",
+          "enterprise",
+          "forrester"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-002": {
+      "id": "FACT-002",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-002",
+        "claim": "Inkloom was founded in 2021 by Elena Rostova and Marcus Vance.",
+        "category": "Company",
+        "sourceDoc": "Certificate of Incorporation DE-849204",
+        "evidenceUrl": "https://evidence.inkloom.internal/legal/articles-of-incorporation.pdf",
+        "expiryDate": "2030-01-01",
+        "version": "v1.0",
+        "owner": "Legal & Corporate Registry",
+        "confidence": 1,
+        "status": "valid",
+        "tags": [
+          "founding",
+          "history",
+          "leadership"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-003": {
+      "id": "FACT-003",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-003",
+        "claim": "SOC-2 Type II Certified with zero customer data retention on AI fine-tuning pipelines.",
+        "category": "Security",
+        "sourceDoc": "A-LIGN SOC-2 Annual Audit Report 2024",
+        "evidenceUrl": "https://trust.inkloom.internal/soc2-type2-audit-2024.pdf",
+        "expiryDate": "2027-04-15",
+        "version": "v3.0",
+        "owner": "David Lin (CISO)",
+        "confidence": 0.99,
+        "status": "valid",
+        "tags": [
+          "soc2",
+          "security",
+          "compliance",
+          "privacy"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-004": {
+      "id": "FACT-004",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-004",
+        "claim": "Guarantees 99.95% uptime SLA backed by multi-region active-active cloud failover.",
+        "category": "Product",
+        "sourceDoc": "Master Service Agreement Exhibit B",
+        "evidenceUrl": "https://trust.inkloom.internal/sla-agreement-2024.pdf",
+        "expiryDate": "2027-10-01",
+        "version": "v2.2",
+        "owner": "DevOps Infrastructure Council",
+        "confidence": 0.99,
+        "status": "valid",
+        "tags": [
+          "sla",
+          "uptime",
+          "reliability"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-005": {
+      "id": "FACT-005",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-005",
+        "claim": "Trusted by over 1,200 global brands including 40 of the Fortune 500.",
+        "category": "Customer",
+        "sourceDoc": "Q2 2024 Sales Verified Customer Roster",
+        "evidenceUrl": "https://evidence.inkloom.internal/customers/q2-2024-audit.pdf",
+        "expiryDate": "2027-06-30",
+        "version": "v4.1",
+        "owner": "Rachel Kim (VP Revenue Operations)",
+        "confidence": 0.96,
+        "status": "valid",
+        "tags": [
+          "customers",
+          "scale",
+          "fortune500"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-006": {
+      "id": "FACT-006",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-006",
+        "claim": "Reduces brand compliance review cycles from 4.2 days to under 18 minutes.",
+        "category": "Performance",
+        "sourceDoc": "Internal Customer Telemetry Benchmark Report 2024",
+        "evidenceUrl": "https://evidence.inkloom.internal/metrics/review-latency-benchmarks.pdf",
+        "expiryDate": "2027-09-30",
+        "version": "v1.4",
+        "owner": "Sarah Chen (Product Marketing)",
+        "confidence": 0.95,
+        "status": "valid",
+        "tags": [
+          "review-cycle",
+          "speed",
+          "automation"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-007": {
+      "id": "FACT-007",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-007",
+        "claim": "Native integrations with Adobe Creative Cloud, Figma, and Contentful Enterprise.",
+        "category": "Product",
+        "sourceDoc": "Ecosystem Partner Certification Doc v3",
+        "evidenceUrl": "https://evidence.inkloom.internal/integrations/technical-spec-2024.pdf",
+        "expiryDate": "2027-11-15",
+        "version": "v2.0",
+        "owner": "Liam Scott (VP Partnerships)",
+        "confidence": 0.99,
+        "status": "valid",
+        "tags": [
+          "integrations",
+          "adobe",
+          "figma",
+          "contentful"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-008": {
+      "id": "FACT-008",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-008",
+        "claim": "Inkloom's BrandTrust Engine compiles brand guidelines into automated AST rules.",
+        "category": "Product",
+        "sourceDoc": "USPTO Patent Application #18/492,021",
+        "evidenceUrl": "https://evidence.inkloom.internal/patents/us-pat-pending-brand-compiler.pdf",
+        "expiryDate": "2032-01-01",
+        "version": "v1.1",
+        "owner": "Dr. Aris Thorne (Chief AI Architect)",
+        "confidence": 1,
+        "status": "valid",
+        "tags": [
+          "patent",
+          "compiler",
+          "brandtrust",
+          "technology"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-009": {
+      "id": "FACT-009",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-009",
+        "claim": "Inkloom holds ISO 27001:2022 Certification across all global datacenter regions.",
+        "category": "Security",
+        "sourceDoc": "BSI Assurance ISO/IEC 27001 Certificate #IS-749201",
+        "evidenceUrl": "https://trust.inkloom.internal/iso-27001-certificate.pdf",
+        "expiryDate": "2027-08-20",
+        "version": "v2.0",
+        "owner": "David Lin (CISO)",
+        "confidence": 1,
+        "status": "valid",
+        "tags": [
+          "iso27001",
+          "security",
+          "datacenter"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-010": {
+      "id": "FACT-010",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-010",
+        "claim": "Headquartered in San Francisco with research engineering laboratories in Zurich.",
+        "category": "Company",
+        "sourceDoc": "Corporate Facility Disclosures 2024",
+        "evidenceUrl": "https://evidence.inkloom.internal/corp/facilities-lease-registry.pdf",
+        "expiryDate": "2029-05-01",
+        "version": "v1.2",
+        "owner": "People & Places Operations",
+        "confidence": 0.99,
+        "status": "valid",
+        "tags": [
+          "headquarters",
+          "locations",
+          "zurich",
+          "san-francisco"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-011": {
+      "id": "FACT-011",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-011",
+        "claim": "Employs over 180 full-time engineers, researchers, and brand governance specialists.",
+        "category": "Company",
+        "sourceDoc": "Q3 2024 Payroll & HR Census",
+        "evidenceUrl": "https://evidence.inkloom.internal/hr/q3-headcount-verified.pdf",
+        "expiryDate": "2027-03-31",
+        "version": "v3.1",
+        "owner": "Monique Beller (VP People)",
+        "confidence": 0.94,
+        "status": "valid",
+        "tags": [
+          "headcount",
+          "team",
+          "engineers"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-012": {
+      "id": "FACT-012",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-012",
+        "claim": "Achieved Net Promoter Score (NPS) of +68 in the 2024 Enterprise MarTech Survey.",
+        "category": "Customer",
+        "sourceDoc": "Third-Party Customer Satisfaction Benchmarks, Qualtrics",
+        "evidenceUrl": "https://evidence.inkloom.internal/satisfaction/nps-report-2024.pdf",
+        "expiryDate": "2027-07-15",
+        "version": "v2.0",
+        "owner": "Customer Experience Team",
+        "confidence": 0.97,
+        "status": "valid",
+        "tags": [
+          "nps",
+          "satisfaction",
+          "survey"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-013": {
+      "id": "FACT-013",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-013",
+        "claim": "Compliant with GDPR, CCPA, CPRA, and EU AI Act Governance Tier 2 classifications.",
+        "category": "Security",
+        "sourceDoc": "Baker & McKenzie Regulatory Compliance Opinion 2024",
+        "evidenceUrl": "https://trust.inkloom.internal/legal/privacy-framework-2024.pdf",
+        "expiryDate": "2027-11-01",
+        "version": "v2.3",
+        "owner": "Legal Privacy Counsel",
+        "confidence": 0.99,
+        "status": "valid",
+        "tags": [
+          "gdpr",
+          "ccpa",
+          "ai-act",
+          "legal"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-014": {
+      "id": "FACT-014",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-014",
+        "claim": "BrandGene Drift Radar provides continuous tone vector variance analysis across channels.",
+        "category": "Product",
+        "sourceDoc": "Inkloom Whitepaper: Continuous Brand Governance at Scale",
+        "evidenceUrl": "https://evidence.inkloom.internal/tech/drift-radar-spec.pdf",
+        "expiryDate": "2028-01-01",
+        "version": "v1.0",
+        "owner": "Dr. Aris Thorne (Chief AI Architect)",
+        "confidence": 0.98,
+        "status": "valid",
+        "tags": [
+          "drift-radar",
+          "brandgene",
+          "governance"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-015": {
+      "id": "FACT-015",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-015",
+        "claim": "Offers automated WCAG 2.1 AA/AAA accessibility contrast validation for all digital assets.",
+        "category": "Product",
+        "sourceDoc": "Accessibility Conformance Report (VPAT 2.4)",
+        "evidenceUrl": "https://evidence.inkloom.internal/accessibility/wcag-audit.pdf",
+        "expiryDate": "2027-10-30",
+        "version": "v2.0",
+        "owner": "UX Governance Guild",
+        "confidence": 0.99,
+        "status": "valid",
+        "tags": [
+          "wcag",
+          "accessibility",
+          "contrast"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-016": {
+      "id": "FACT-016",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-016",
+        "claim": "Zero-retention model: Customer assets are never utilized to train shared AI weights.",
+        "category": "Security",
+        "sourceDoc": "Data Processing Addendum Section 7.2",
+        "evidenceUrl": "https://trust.inkloom.internal/data-privacy/enterprise-dpa.pdf",
+        "expiryDate": "2028-12-31",
+        "version": "v4.0",
+        "owner": "David Lin (CISO)",
+        "confidence": 1,
+        "status": "valid",
+        "tags": [
+          "privacy",
+          "no-training",
+          "enterprise"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-017": {
+      "id": "FACT-017",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-017",
+        "claim": "Inkloom primary color hex is #0284C7 (Cyber Blue) with accent #6366F1 (Electric Indigo).",
+        "category": "Product",
+        "sourceDoc": "Inkloom Design System Spec v3.2",
+        "evidenceUrl": "https://brand.inkloom.internal/tokens/design-system-2024.json",
+        "expiryDate": "2028-06-01",
+        "version": "v3.2",
+        "owner": "Brand Creative Director",
+        "confidence": 1,
+        "status": "valid",
+        "tags": [
+          "design-system",
+          "colors",
+          "hex",
+          "brand-identity"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-018": {
+      "id": "FACT-018",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-018",
+        "claim": "Supported by Series B funding led by Sequoia Capital and Benchmark.",
+        "category": "Company",
+        "sourceDoc": "Press Wire Official Filing SEC Form D 2023",
+        "evidenceUrl": "https://evidence.inkloom.internal/investors/series-b-release.pdf",
+        "expiryDate": "2029-01-01",
+        "version": "v1.0",
+        "owner": "Chief Financial Officer",
+        "confidence": 1,
+        "status": "valid",
+        "tags": [
+          "investors",
+          "sequoia",
+          "series-b"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-019": {
+      "id": "FACT-019",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-019",
+        "claim": "Eliminates up to 88% of off-brand visual and typography regressions in published campaigns.",
+        "category": "Performance",
+        "sourceDoc": "Annual Brand Integrity Cohort Study (Q1 2024)",
+        "evidenceUrl": "https://evidence.inkloom.internal/case-studies/enterprise-cohort-2024.pdf",
+        "expiryDate": "2027-05-30",
+        "version": "v1.8",
+        "owner": "Sarah Chen (Product Marketing)",
+        "confidence": 0.94,
+        "status": "valid",
+        "tags": [
+          "case-study",
+          "visual-regressions",
+          "efficiency"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-020": {
+      "id": "FACT-020",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-020",
+        "claim": "Approved logo asset package is Version 2.4 SVG with minimum clearspace of 24px.",
+        "category": "Product",
+        "sourceDoc": "Brand Asset Master Guidelines v2.4",
+        "evidenceUrl": "https://brand.inkloom.internal/assets/logo-guidelines-v2.4.pdf",
+        "expiryDate": "2028-01-01",
+        "version": "v2.4",
+        "owner": "Brand Creative Director",
+        "confidence": 1,
+        "status": "valid",
+        "tags": [
+          "logo",
+          "svg",
+          "clearspace",
+          "brand-identity"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-EXP-001": {
+      "id": "FACT-EXP-001",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-EXP-001",
+        "claim": "Inkloom Starter Tier subscription starts at $49/seat/month.",
+        "category": "Product",
+        "sourceDoc": "Archived 2022 Pricing Sheet (Superseded by Enterprise Quote Model)",
+        "evidenceUrl": "https://evidence.inkloom.internal/archive/2022-pricing-card.pdf",
+        "expiryDate": "2022-12-31",
+        "version": "v1.0-LEGACY",
+        "owner": "Revenue Council (Deprecated)",
+        "confidence": 0.91,
+        "status": "expired",
+        "tags": [
+          "pricing",
+          "legacy",
+          "expired"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-EXP-002": {
+      "id": "FACT-EXP-002",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-EXP-002",
+        "claim": "Inkloom provides experimental beta support for Figma Plugin v1.0.",
+        "category": "Product",
+        "sourceDoc": "Engineering Notice: Figma v1 deprecated in favor of REST API v3",
+        "evidenceUrl": "https://evidence.inkloom.internal/archive/figma-v1-deprecation-notice.pdf",
+        "expiryDate": "2023-06-30",
+        "version": "v1.0-BETA",
+        "owner": "Integrations Guild",
+        "confidence": 0.88,
+        "status": "expired",
+        "tags": [
+          "figma",
+          "beta",
+          "deprecated",
+          "expired"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "FACT-EXP-003": {
+      "id": "FACT-EXP-003",
+      "labels": [
+        "Fact"
+      ],
+      "properties": {
+        "id": "FACT-EXP-003",
+        "claim": "European data center processing is hosted exclusively in Dublin (EU-West-1).",
+        "category": "Security",
+        "sourceDoc": "Cloud Infrastructure Bulletin: Migrated to Frankfurt Multi-AZ in Q1 2024",
+        "evidenceUrl": "https://evidence.inkloom.internal/archive/datacenter-migration-2023.pdf",
+        "expiryDate": "2023-12-31",
+        "version": "v1.2",
+        "owner": "Cloud Architecture Guild",
+        "confidence": 0.85,
+        "status": "expired",
+        "tags": [
+          "datacenter",
+          "dublin",
+          "deprecated",
+          "expired"
+        ],
+        "createdAt": "2024-02-01T00:00:00Z",
+        "updatedAt": "2024-02-01T00:00:00Z"
+      }
+    },
+    "ASSET-001": {
+      "id": "ASSET-001",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-001",
+        "title": "Q4 2024 Global Enterprise Sales Deck",
+        "type": "Sales Deck",
+        "channel": "Enterprise Direct Sales",
+        "owner": "Enterprise Sales Enablement",
+        "status": "published",
+        "lastUpdated": "2024-10-14",
+        "riskLevel": "Low",
+        "originDoc": "Enterprise_Pitch_Master_v4.pptx",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    },
+    "ASSET-002": {
+      "id": "ASSET-002",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-002",
+        "title": "Agency X Performance Growth Campaign (12 Meta Ads)",
+        "type": "Ad",
+        "channel": "Meta Paid Social",
+        "owner": "Agency X Growth Partners",
+        "status": "flagged",
+        "lastUpdated": "2024-10-20",
+        "riskLevel": "High",
+        "originDoc": "AgencyX_Social_Templates_Q3.pptx",
+        "content": "Discover why Inkloom saves 40% efficiency gains for marketing teams. ACT NOW for special enterprise access.",
+        "version": "v1.0",
+        "complianceScore": 42
+      }
+    },
+    "ASSET-003": {
+      "id": "ASSET-003",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-003",
+        "title": "Forrester Total Economic Impact Case Study Brochure",
+        "type": "Blog Post",
+        "channel": "Website & Resource Center",
+        "owner": "Content Marketing",
+        "status": "published",
+        "lastUpdated": "2024-08-11",
+        "riskLevel": "Low",
+        "originDoc": "TEI_Summary_Brochure_v2.pdf",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    },
+    "ASSET-004": {
+      "id": "ASSET-004",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-004",
+        "title": "Brand Governance Executive Webinar Slide Deck",
+        "type": "Sales Deck",
+        "channel": "Virtual Summit",
+        "owner": "Demand Gen",
+        "status": "in_review",
+        "lastUpdated": "2024-10-18",
+        "riskLevel": "Medium",
+        "originDoc": "Webinar_Slide_Deck_Final.key",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 72
+      }
+    },
+    "ASSET-005": {
+      "id": "ASSET-005",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-005",
+        "title": "Cyber Security & AI Governance Datasheet",
+        "type": "Landing Page",
+        "channel": "Trust Center",
+        "owner": "Infosec & Compliance",
+        "status": "published",
+        "lastUpdated": "2024-09-02",
+        "riskLevel": "Low",
+        "originDoc": "Trust_Center_Spec_2024.md",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    },
+    "ASSET-006": {
+      "id": "ASSET-006",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-006",
+        "title": "LinkedIn Sponsored Executive Quote Ads (Cohort B)",
+        "type": "Ad",
+        "channel": "LinkedIn Ads",
+        "owner": "Performance Marketing",
+        "status": "published",
+        "lastUpdated": "2024-09-25",
+        "riskLevel": "Low",
+        "originDoc": "LinkedIn_Sponsored_Quotes_v3.fig",
+        "content": "Discover why Inkloom saves 40% efficiency gains for marketing teams. ACT NOW for special enterprise access.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    },
+    "ASSET-007": {
+      "id": "ASSET-007",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-007",
+        "title": "Pricing Matrix & Enterprise Feature Comparison Page",
+        "type": "Landing Page",
+        "channel": "Website",
+        "owner": "Growth Engineering",
+        "status": "flagged",
+        "lastUpdated": "2024-10-15",
+        "riskLevel": "High",
+        "originDoc": "Website_Pricing_Component.tsx",
+        "content": "Discover why Inkloom saves 40% efficiency gains for marketing teams. ACT NOW for special enterprise access.",
+        "version": "v1.0",
+        "complianceScore": 42
+      }
+    },
+    "ASSET-008": {
+      "id": "ASSET-008",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-008",
+        "title": "Google Search Ad Extensions - Time Savings Benchmark",
+        "type": "Ad",
+        "channel": "Google Ads",
+        "owner": "Search Marketing",
+        "status": "published",
+        "lastUpdated": "2024-08-30",
+        "riskLevel": "Low",
+        "originDoc": "Search_Copy_Spreadsheet_2024.xlsx",
+        "content": "Discover why Inkloom saves 40% efficiency gains for marketing teams. ACT NOW for special enterprise access.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    },
+    "ASSET-009": {
+      "id": "ASSET-009",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-009",
+        "title": "European Expansion & Infrastructure Announcement",
+        "type": "Blog Post",
+        "channel": "Company Blog",
+        "owner": "Corporate PR",
+        "status": "published",
+        "lastUpdated": "2024-03-12",
+        "riskLevel": "Medium",
+        "originDoc": "PR_Euro_Expansion_Release.docx",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 72
+      }
+    },
+    "ASSET-010": {
+      "id": "ASSET-010",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-010",
+        "title": "Design System & Creative Automation Figma Community File",
+        "type": "Landing Page",
+        "channel": "Figma Community",
+        "owner": "Brand Design Team",
+        "status": "in_review",
+        "lastUpdated": "2024-10-22",
+        "riskLevel": "Medium",
+        "originDoc": "Inkloom_UI_Tokens_Release.fig",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 72
+      }
+    },
+    "ASSET-011": {
+      "id": "ASSET-011",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-011",
+        "title": "Customer Welcome Email Nurture Sequence (6 Emails)",
+        "type": "Email",
+        "channel": "Marketo Lifecycle",
+        "owner": "Lifecycle Marketing",
+        "status": "published",
+        "lastUpdated": "2024-07-19",
+        "riskLevel": "Low",
+        "originDoc": "Nurture_Journey_Workflow_v2.json",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    },
+    "ASSET-012": {
+      "id": "ASSET-012",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-012",
+        "title": "Q3 Agency Out-of-Home Billboard & Airport Displays",
+        "type": "Ad",
+        "channel": "OOH Displays",
+        "owner": "Brand Media Agency",
+        "status": "published",
+        "lastUpdated": "2024-07-01",
+        "riskLevel": "Low",
+        "originDoc": "Airport_Billboard_Artwork_Master.ai",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    },
+    "ASSET-013": {
+      "id": "ASSET-013",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-013",
+        "title": "Product Launch Press Release: BrandTrust Compiler 3.0",
+        "type": "Blog Post",
+        "channel": "PR Newswire",
+        "owner": "Corporate PR",
+        "status": "published",
+        "lastUpdated": "2024-09-10",
+        "riskLevel": "Low",
+        "originDoc": "PR_Compiler_Launch.docx",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    },
+    "ASSET-014": {
+      "id": "ASSET-014",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-014",
+        "title": "Security Whitepaper: Zero-Retention AI Governance",
+        "type": "Landing Page",
+        "channel": "Trust Portal",
+        "owner": "Security Architecture",
+        "status": "published",
+        "lastUpdated": "2024-08-15",
+        "riskLevel": "Low",
+        "originDoc": "Zero_Retention_Whitepaper_2024.pdf",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    },
+    "ASSET-015": {
+      "id": "ASSET-015",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-015",
+        "title": "End-of-Year Customer Appreciation Gift & Factsheet",
+        "type": "Email",
+        "channel": "VIP Executive Mailer",
+        "owner": "Executive Communications",
+        "status": "draft",
+        "lastUpdated": "2024-10-24",
+        "riskLevel": "Low",
+        "originDoc": "VIP_Executive_Pack_2024.pdf",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    },
+    "ASSET-016": {
+      "id": "ASSET-016",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-016",
+        "title": "Q4 Growth Retargeting Ad #1",
+        "type": "Ad",
+        "channel": "Meta Paid Social",
+        "owner": "Growth Marketing",
+        "status": "published",
+        "lastUpdated": "2024-10-18",
+        "riskLevel": "High",
+        "originDoc": "AgencyX_Social_Templates_Q3.pptx",
+        "content": "Discover why Inkloom saves 40% efficiency gains for marketing teams. ACT NOW for special enterprise access.",
+        "version": "v1.0",
+        "complianceScore": 42
+      }
+    },
+    "ASSET-017": {
+      "id": "ASSET-017",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-017",
+        "title": "Executive Benchmark Carousel #2",
+        "type": "Ad",
+        "channel": "LinkedIn Ads",
+        "owner": "Demand Gen",
+        "status": "published",
+        "lastUpdated": "2024-10-19",
+        "riskLevel": "High",
+        "originDoc": "Executive_Carousel_Deck.pptx",
+        "content": "Discover why Inkloom saves 40% efficiency gains for marketing teams. ACT NOW for special enterprise access.",
+        "version": "v1.0",
+        "complianceScore": 42
+      }
+    },
+    "ASSET-018": {
+      "id": "ASSET-018",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-018",
+        "title": "Enterprise Sales Slide 4 Master",
+        "type": "Sales Deck",
+        "channel": "Enterprise Direct Sales",
+        "owner": "Sales Enablement",
+        "status": "published",
+        "lastUpdated": "2024-10-20",
+        "riskLevel": "High",
+        "originDoc": "AgencyX_Pitch_Master.pptx",
+        "content": "Discover why Inkloom saves 40% efficiency gains for marketing teams. ACT NOW for special enterprise access.",
+        "version": "v1.0",
+        "complianceScore": 42
+      }
+    },
+    "ASSET-019": {
+      "id": "ASSET-019",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-019",
+        "title": "Agency X Starter Pitch Template",
+        "type": "Sales Deck",
+        "channel": "Enterprise Direct Sales",
+        "owner": "Agency X Growth Partners",
+        "status": "published",
+        "lastUpdated": "2024-10-21",
+        "riskLevel": "High",
+        "originDoc": "AgencyX_Template_v1.2.pptx",
+        "content": "Discover why Inkloom saves 40% efficiency gains for marketing teams. ACT NOW for special enterprise access.",
+        "version": "v1.0",
+        "complianceScore": 42
+      }
+    },
+    "ASSET-020": {
+      "id": "ASSET-020",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-020",
+        "title": "Google Performance Max Ad Variant B",
+        "type": "Ad",
+        "channel": "Google Search",
+        "owner": "Paid Search Team",
+        "status": "published",
+        "lastUpdated": "2024-10-22",
+        "riskLevel": "High",
+        "originDoc": "PMax_Copy_Sheet.xlsx",
+        "content": "Discover why Inkloom saves 40% efficiency gains for marketing teams. ACT NOW for special enterprise access.",
+        "version": "v1.0",
+        "complianceScore": 42
+      }
+    },
+    "ASSET-021": {
+      "id": "ASSET-021",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-021",
+        "title": "Partner Co-Marketing One-Pager",
+        "type": "Landing Page",
+        "channel": "Website & Resource Center",
+        "owner": "Partner Marketing",
+        "status": "published",
+        "lastUpdated": "2024-10-23",
+        "riskLevel": "High",
+        "originDoc": "Partner_OnePager.docx",
+        "content": "Discover why Inkloom saves 40% efficiency gains for marketing teams. ACT NOW for special enterprise access.",
+        "version": "v1.0",
+        "complianceScore": 42
+      }
+    },
+    "ASSET-022": {
+      "id": "ASSET-022",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-022",
+        "title": "Customer Renewal Webinar Slide",
+        "type": "Sales Deck",
+        "channel": "Marketo Lifecycle",
+        "owner": "Customer Marketing",
+        "status": "published",
+        "lastUpdated": "2024-10-24",
+        "riskLevel": "Medium",
+        "originDoc": "Webinar_Slide_Deck.pptx",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 72
+      }
+    },
+    "ASSET-023": {
+      "id": "ASSET-023",
+      "labels": [
+        "Asset"
+      ],
+      "properties": {
+        "id": "ASSET-023",
+        "title": "Brand Intelligence Whitepaper Deck",
+        "type": "Sales Deck",
+        "channel": "Enterprise Sales Pipeline",
+        "owner": "Product Marketing",
+        "status": "published",
+        "lastUpdated": "2024-10-25",
+        "riskLevel": "Low",
+        "originDoc": "Whitepaper_Deck_v2.pptx",
+        "content": "Enterprise Brand Governance platform overview. Certified SOC-2 Type II with 25% verified productivity gains.",
+        "version": "v1.0",
+        "complianceScore": 95
+      }
+    }
+  },
+  "relationships": [
+    {
+      "id": "rel_FACT-001_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-001",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.98
+      }
+    },
+    {
+      "id": "rel_FACT-002_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-002",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 1
+      }
+    },
+    {
+      "id": "rel_FACT-003_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-003",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.99
+      }
+    },
+    {
+      "id": "rel_FACT-004_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-004",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.99
+      }
+    },
+    {
+      "id": "rel_FACT-005_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-005",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.96
+      }
+    },
+    {
+      "id": "rel_FACT-006_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-006",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.95
+      }
+    },
+    {
+      "id": "rel_FACT-007_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-007",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.99
+      }
+    },
+    {
+      "id": "rel_FACT-008_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-008",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 1
+      }
+    },
+    {
+      "id": "rel_FACT-009_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-009",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 1
+      }
+    },
+    {
+      "id": "rel_FACT-010_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-010",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.99
+      }
+    },
+    {
+      "id": "rel_FACT-011_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-011",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.94
+      }
+    },
+    {
+      "id": "rel_FACT-012_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-012",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.97
+      }
+    },
+    {
+      "id": "rel_FACT-013_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-013",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.99
+      }
+    },
+    {
+      "id": "rel_FACT-014_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-014",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.98
+      }
+    },
+    {
+      "id": "rel_FACT-015_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-015",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.99
+      }
+    },
+    {
+      "id": "rel_FACT-016_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-016",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 1
+      }
+    },
+    {
+      "id": "rel_FACT-017_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-017",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 1
+      }
+    },
+    {
+      "id": "rel_FACT-018_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-018",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 1
+      }
+    },
+    {
+      "id": "rel_FACT-019_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-019",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.94
+      }
+    },
+    {
+      "id": "rel_FACT-020_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-020",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 1
+      }
+    },
+    {
+      "id": "rel_FACT-EXP-001_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-EXP-001",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.91
+      }
+    },
+    {
+      "id": "rel_FACT-EXP-002_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-EXP-002",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.88
+      }
+    },
+    {
+      "id": "rel_FACT-EXP-003_doc",
+      "type": "EXTRACTED_FROM",
+      "startNodeId": "FACT-EXP-003",
+      "endNodeId": "DOC-001",
+      "properties": {
+        "confidence": 0.85
+      }
+    },
+    {
+      "id": "rel_ASSET-001_FACT-001",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-001",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-001_FACT-005",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-001",
+      "endNodeId": "FACT-005",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-001_FACT-003",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-001",
+      "endNodeId": "FACT-003",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-001_FACT-017",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-001",
+      "endNodeId": "FACT-017",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-002_FACT-001",
+      "type": "MUTATED_FROM",
+      "startNodeId": "ASSET-002",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Claim rounded up from 25% to 40%",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-002_FACT-EXP-001",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-002",
+      "endNodeId": "FACT-EXP-001",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-003_FACT-001",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-003",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-003_FACT-006",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-003",
+      "endNodeId": "FACT-006",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-003_FACT-019",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-003",
+      "endNodeId": "FACT-019",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-004_FACT-006",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-004",
+      "endNodeId": "FACT-006",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-004_FACT-008",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-004",
+      "endNodeId": "FACT-008",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-004_FACT-014",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-004",
+      "endNodeId": "FACT-014",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-005_FACT-003",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-005",
+      "endNodeId": "FACT-003",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-005_FACT-009",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-005",
+      "endNodeId": "FACT-009",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-005_FACT-013",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-005",
+      "endNodeId": "FACT-013",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-005_FACT-016",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-005",
+      "endNodeId": "FACT-016",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-006_FACT-005",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-006",
+      "endNodeId": "FACT-005",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-006_FACT-012",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-006",
+      "endNodeId": "FACT-012",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-007_FACT-EXP-001",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-007",
+      "endNodeId": "FACT-EXP-001",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-007_FACT-004",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-007",
+      "endNodeId": "FACT-004",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-008_FACT-001",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-008",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-009_FACT-010",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-009",
+      "endNodeId": "FACT-010",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-009_FACT-EXP-003",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-009",
+      "endNodeId": "FACT-EXP-003",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-010_FACT-017",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-010",
+      "endNodeId": "FACT-017",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-010_FACT-020",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-010",
+      "endNodeId": "FACT-020",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-010_FACT-EXP-002",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-010",
+      "endNodeId": "FACT-EXP-002",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-011_FACT-001",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-011",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-011_FACT-004",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-011",
+      "endNodeId": "FACT-004",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-011_FACT-007",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-011",
+      "endNodeId": "FACT-007",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-012_FACT-017",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-012",
+      "endNodeId": "FACT-017",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-012_FACT-020",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-012",
+      "endNodeId": "FACT-020",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-012_FACT-002",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-012",
+      "endNodeId": "FACT-002",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-013_FACT-008",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-013",
+      "endNodeId": "FACT-008",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-013_FACT-014",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-013",
+      "endNodeId": "FACT-014",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-013_FACT-015",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-013",
+      "endNodeId": "FACT-015",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-014_FACT-003",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-014",
+      "endNodeId": "FACT-003",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-014_FACT-009",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-014",
+      "endNodeId": "FACT-009",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-014_FACT-016",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-014",
+      "endNodeId": "FACT-016",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-015_FACT-005",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-015",
+      "endNodeId": "FACT-005",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-015_FACT-011",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-015",
+      "endNodeId": "FACT-011",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-015_FACT-012",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-015",
+      "endNodeId": "FACT-012",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-016_FACT-001",
+      "type": "MUTATED_FROM",
+      "startNodeId": "ASSET-016",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Claim rounded up from 25% to 40%",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-017_FACT-001",
+      "type": "MUTATED_FROM",
+      "startNodeId": "ASSET-017",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Claim rounded up from 25% to 40%",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-017_FACT-006",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-017",
+      "endNodeId": "FACT-006",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-018_FACT-001",
+      "type": "MUTATED_FROM",
+      "startNodeId": "ASSET-018",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Claim rounded up from 25% to 40%",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-019_FACT-001",
+      "type": "MUTATED_FROM",
+      "startNodeId": "ASSET-019",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Claim rounded up from 25% to 40%",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-019_FACT-EXP-001",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-019",
+      "endNodeId": "FACT-EXP-001",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-020_FACT-001",
+      "type": "MUTATED_FROM",
+      "startNodeId": "ASSET-020",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Claim rounded up from 25% to 40%",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-021_FACT-001",
+      "type": "MUTATED_FROM",
+      "startNodeId": "ASSET-021",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Claim rounded up from 25% to 40%",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-022_FACT-001",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-022",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    },
+    {
+      "id": "rel_ASSET-023_FACT-001",
+      "type": "DEPENDS_ON",
+      "startNodeId": "ASSET-023",
+      "endNodeId": "FACT-001",
+      "properties": {
+        "mutationNote": "Direct citation",
+        "timestamp": "2024-05-10T12:00:00Z"
+      }
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "AUDIT-INIT",
+      "action": "SYSTEM_BOOTSTRAP",
+      "actor": "System Installer",
+      "timestamp": "2026-10-28T07:25:23.654Z",
+      "details": {
+        "factsCount": 23,
+        "assetsCount": 15
+      }
+    }
+  ]
+}
